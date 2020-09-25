@@ -1,3 +1,3 @@
 # Scraping with Requests and BeautifulSoup
-1. Scraping jadwal sholat PKPU
-2. Scraping detik.com
+1. Scraping detik.com
+2. Scraping floatrates.com
