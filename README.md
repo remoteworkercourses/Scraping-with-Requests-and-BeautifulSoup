@@ -1,2 +1,3 @@
-# pythonscrapingcourses
-these codes are written by Setren_Master for joining python courses at remoteworker.id
+# Scraping with Requests and BeautifulSoup
+1. Scraping jadwal sholat PKPU
+2. Scraping detik.com
